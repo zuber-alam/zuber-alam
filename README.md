@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ I'm ✨ Zuber Alam ✨ from New Delhi, India. I'm ⚡ Full Stack Developer 
+ 
+📫 Contact me on Linkedin or Send an Email
