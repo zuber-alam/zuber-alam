@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- I'm ✨ Zuber Alam ✨ from New Delhi, India. I'm ⚡ Full Stack Developer 
+ I'm ✨ Zuber Alam ✨ Full Stack Developer from New Delhi, India.
  
 📫 Contact me on Linkedin or Send an Email
